@@ -1,5 +1,6 @@
 # Bulb Control Project
 
+![Screenshot 2025-04-01 120313](https://github.com/user-attachments/assets/82d478aa-42e8-4569-9c25-8633a1c1d718)
 ## 🚀 Overview
 This project is a React-based web application that controls bulbs remotely. It uses Material-UI for the UI, WebSockets for real-time updates, and Node.js as the backend.
 
